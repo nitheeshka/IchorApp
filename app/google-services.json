@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "851682766592",
+    "firebase_url": "https://ichorapp-70f66.firebaseio.com",
+    "project_id": "ichorapp-70f66",
+    "storage_bucket": "ichorapp-70f66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851682766592:android:07c61487799bf6eb",
+        "android_client_info": {
+          "package_name": "com.ichor.ichorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851682766592-eml3o4g338aogc0gts0kuhl8k73igk06.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ichor.ichorapp",
+            "certificate_hash": "c98bb6004ec576cb20378425102bb64d0d4827e0"
+          }
+        },
+        {
+          "client_id": "851682766592-9sqi1qq5l9b57ok805q23t12q0iqr3nr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYL7tt3O7r0yOjhJlA4l85BxctOGaiQyc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851682766592-9sqi1qq5l9b57ok805q23t12q0iqr3nr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

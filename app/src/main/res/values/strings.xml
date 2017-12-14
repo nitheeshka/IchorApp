@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IchorApp</string>
+    <string name="field_required_error">This field is required</string>
+    <string name="invalid_phone_number">Invalid Phone Number</string>
+</resources>
